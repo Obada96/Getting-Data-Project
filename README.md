@@ -1,4 +1,4 @@
-# Getting-Data-Week-4-Project
+# Getting-Data-Project
  As given:
  
 This repo was created to finish the assignment for week 4 of Getting and Cleaning Data Coursera course.
