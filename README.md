@@ -1,5 +1,6 @@
-# Getting-and-Cleaning-Data-Week-4-Assignment
-
+# Getting-Data-Week-4-Project
+ As given:
+ 
 This repo was created to finish the assignment for week 4 of Getting and Cleaning Data Coursera course.
 * First, download and unzip the data file into your R working directory.
 * Second, download the R source code into your R working directory.
